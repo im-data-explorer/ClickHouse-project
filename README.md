@@ -12,7 +12,7 @@ Optimizing query performance in ClickHouse based on data from Y.Metrika
 #### 7. Подключение к Apache Superset
 #### 8. Написание базовых запросов для вывода на BI
 #### 9. Superset: создание дашборда. Выводы.
-#### 10. Оптимизация организациий хранения сырых данных на уровне.
+#### 10. Оптимизация организациии хранения сырых данных на уровне.
         ClickHouse-> materialized view -> MergeeTree, partitions,order by settings of tables.
 #### 11. Superset: замена датасета под запросами. Выводы.
 #### 12. Мониторинг работы кластера.
