@@ -7,7 +7,7 @@ Optimizing query performance in ClickHouse based on data from Y.Metrika
 #### 2. [Перечень планируемых задач](https://github.com/im-data-explorer/ClickHouse-project/wiki/%D0%9F%D0%BB%D0%B0%D0%BD)
 #### 3. [Создание виртуальной машины Y.Cloud](https://github.com/im-data-explorer/ClickHouse-project/wiki/Y.-Cloud-VM)
 #### 4. [Создание кластера ClickHouse](https://github.com/im-data-explorer/ClickHouse-project/wiki/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-ClickHouse)
-#### 5. Настройки конфигурационных файлов
+#### 5. [Загрузка тестовых данных]()
 #### 6. Подключение к IDE (DBeaver)
 #### 7. Подключение к Apache Superset
 #### 8. Написание базовых запросов для вывода на BI
